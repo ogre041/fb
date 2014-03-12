@@ -1,0 +1,9 @@
+@font-face{
+  font-family:"SignikaNegative";
+  src:url(../fonts/SignikaNegative.ttf) format("truetype");
+}
+
+body{
+    font-family: SignikaNegative, Arial !important;
+    padding: 5px;
+}
